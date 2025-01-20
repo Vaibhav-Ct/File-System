@@ -27,7 +27,7 @@ This project serves as a demonstration of building a **Java Spring Boot** applic
 ### 🏗️ Build Instructions  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/application.git  
+   git clone https://github.com/Vaibhav-Ct/application.git  
 ### Navigate to the project directory:
 cd application  
 ### Install Dependencies:
