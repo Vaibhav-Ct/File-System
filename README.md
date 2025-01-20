@@ -41,14 +41,3 @@ Spring Boot Starter Web: To expose REST APIs.
 MySQL Connector Java: JDBC driver for MySQL database.
 OpenJDK 17: Java Development Kit used for compiling and running the application.
 
-### 📋 Directory Structure
-
-/application
-├── src/main/java
-│   ├── com/spotify/application/example/multithreading
-│   │   ├── model/               # Entity classes with JPA annotations
-│   │   ├── repository/           # Spring Data JPA Repositories
-│   │   ├── service/              # Service layer for business logic
-├── resources/                    # Configuration and resource files
-├── target/                       # Compiled classes and JAR file
-└── pom.xml                       # Maven build configuration file
