@@ -1,8 +1,3 @@
-Sure! Below is the complete README.md content you can use directly:
-
-md
-Copy
-Edit
 # 📱 **Spotify Application**
 
 Welcome to the **Spotify Application** repository! 🎵  
@@ -47,6 +42,7 @@ MySQL Connector Java: JDBC driver for MySQL database.
 OpenJDK 17: Java Development Kit used for compiling and running the application.
 
 ### 📋 Directory Structure
+
 /application
 ├── src/main/java
 │   ├── com/spotify/application/example/multithreading
