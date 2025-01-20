@@ -14,7 +14,6 @@ This project serves as a demonstration of building a **Java Spring Boot** applic
 - **Spring Boot**: Rapid application development using Spring Boot.  
 - **Multithreading**: Handling concurrent requests using Java threads.  
 - **JPA**: Utilizing Spring Data JPA for database operations.  
-- **Database**: MySQL is used as the primary database.
 
 ---
 
