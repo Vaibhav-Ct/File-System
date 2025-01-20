@@ -34,9 +34,5 @@ mvn clean install
 
 ### 🌟 Running the Application
 mvn spring-boot:run  
-### 📚 Key Libraries Used
-Spring Boot Starter Data JPA: For database integration and CRUD operations.
-Spring Boot Starter Web: To expose REST APIs.
-MySQL Connector Java: JDBC driver for MySQL database.
-OpenJDK 17: Java Development Kit used for compiling and running the application.
+
 
